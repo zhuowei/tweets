@@ -21,7 +21,7 @@ Grailbird.data.tweets_2012_02 =
   "id" : 166658005478285313,
   "in_reply_to_status_id" : 166657529378639872,
   "created_at" : "2012-02-06 23:02:19 +0000",
-  "in_reply_to_screen_name" : "brophybait",
+  "in_reply_to_screen_name" : "fuckpalahniuk",
   "in_reply_to_user_id_str" : "106145320",
   "user" : {
     "name" : "Zhuowei Zhang",
